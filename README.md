@@ -1,6 +1,6 @@
-# vue-resource
+# Vue.js project
 
-> A Vue.js project
+A exemple of VUE.js using vue-resource and Bootstrap
 
 ## Build Setup
 
